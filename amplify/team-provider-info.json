@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyfullstack20a58cd8": {}
+      },
+      "api": {
+        "amplifyfullstack": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
